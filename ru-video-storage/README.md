@@ -281,8 +281,8 @@ Pull requests приветствуются! Для крупных изменен
 
 ## 📞 Контакты
 
-- Issues: https://github.com/yourusername/ru-video-storage/issues
-- Email: your.email@example.com
+- Issues: https://github.com/Satanpapa/RU-Video-Storage-v1.0.0/issues
+- Email: satanpapa616@gmail.com
 
 ## 🙏 Благодарности
 
